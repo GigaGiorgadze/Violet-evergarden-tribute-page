@@ -1,0 +1,26 @@
+
+  body{
+    text-align: center;
+    background-color: #a29bfe;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  img{
+    max-width: 50%;
+    margin: auto;
+    display: block;
+  }
+  a{
+    color: #ffffff
+  }
+  #tribute-info-div{
+    background-color: #6c5ce7;
+    width: 50vw;
+    text-align: center;
+
+  }
+
+  }
+        
